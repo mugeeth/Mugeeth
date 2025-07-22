@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Mugeeth Khzai
 <p align="center">
  <a href="https://www.linkedin.com/in/mugeeth/">LinkedIn</a> •
-</p>
+</p> </h1>
 ---
 ## About Me
 I'm passionate about technology,  With two decades of experience in various topics Digtial Strategy, digital innovation, Data and AI adoption, infrastructure modernization.
